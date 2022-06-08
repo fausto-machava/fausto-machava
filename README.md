@@ -1,8 +1,6 @@
 
 ### Hi there 👋
 
-- 🌱 I’m currently learning React JS
-
 
 <div align="center">
   <a href="https://github.com/fausto-machava">
